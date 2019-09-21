@@ -1,0 +1,1 @@
+console.log("NPM Starter Project with Webpack hot reload");

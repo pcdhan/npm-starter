@@ -1,0 +1,19 @@
+{
+  "name": "NPM-Starter",
+  "version": "1.0.0",
+  "description": "NPM Starter Project",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack -p --progress",
+    "server": "webpack-dev-server --hot --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PCDHAN",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.8.1"
+  }
+}
